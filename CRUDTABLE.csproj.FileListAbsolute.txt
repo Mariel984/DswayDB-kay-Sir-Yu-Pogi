@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\bin\Debug\CRUDTABLE.exe.config
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\bin\Debug\CRUDTABLE.exe
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\bin\Debug\CRUDTABLE.pdb
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.Form1.resources
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.Properties.Resources.resources
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.exe
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.pdb
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.Deliver.resources
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.Form4.resources
+C:\Users\Asus\source\repos\CRUDTABLE\CRUDTABLE\obj\Debug\CRUDTABLE.SignUp.resources
